@@ -1,0 +1,6 @@
+{
+	"autoload":
+	{
+		"classmap": ["ext-op-ml-php\/ext-op-ml-php.class.php", "graph-php.class.php", "img2img\/PHP-Instagram-effects-master\/src\/Image\/Filter.php", "img2img\/img2img.class.php"]
+	}
+}

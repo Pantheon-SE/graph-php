@@ -1,6 +1,9 @@
 {
-	"autoload":
-	{
+	"name": "vivesweb/graph-php",
+	"description": "PHP Plot Graph: Render graph charts of several types as images",
+	"type": "library",
+	"license": "GPL-3.0-or-later",
+	"autoload": {
 		"classmap": ["ext-op-ml-php\/ext-op-ml-php.class.php", "graph-php.class.php", "img2img\/PHP-Instagram-effects-master\/src\/Image\/Filter.php", "img2img\/img2img.class.php"]
 	}
-}
+  }
